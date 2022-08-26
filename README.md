@@ -3,7 +3,7 @@
 ## Click Below Link To Visit My Website <br/>
 [Click Here]( https://vitthalpatil0806.github.io/Rode/) <br/>
 ## Below Are the Thumbnail Of Rode <br/>
-![ss]([https://github.com/VitthalPatil0806/Responsive-Shopify/blob/master/Shopify%20ss.png](https://github.com/VitthalPatil0806/Rode/blob/master/Rode.png)) <br/>
+![ss]() <br/>
 # what I Learned New Different think's <br/>
 * Creating rapidly Rode website using TailWind <br/>
 * Make It Mobile Responsive As Well As Desktop Responsive <br/>
